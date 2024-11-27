@@ -51,6 +51,7 @@ This forces DISPLAY=:0 redirects output to your main screen instead of the virtu
 (Optional) Disable scaling:
 
 If you encounter issues with screen resolution or scaling, you might need to disable scaling by changing _scaling_enabled = True to _scaling_enabled = False within the ComputerTool class in computer.py.
+
 Modify streamlit.py:
 
 Add the following lines at the beginning of the file:
