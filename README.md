@@ -71,7 +71,7 @@ ANTHROPIC_API_KEY: Your Anthropic API key.
 WIDTH and HEIGHT: Your screen resolution (e.g., WIDTH=1920, HEIGHT=1080 for 1080p).
 
 
-You may also change system prompt but this is user based so there is one size fits all prompt but I can provide mine or you can use AI to make you one since the default prompt is based on docker and virutal pc.
+You may also change system prompt but this is user based so there is no one size fits all prompt but I can provide mine or you can use AI to make you one since the default prompt is based on docker and virutal pc.
 
 Read the read me now for running!
 
