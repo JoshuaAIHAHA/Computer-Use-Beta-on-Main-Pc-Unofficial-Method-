@@ -1,5 +1,5 @@
 # Computer-Use-Beta-on-Main-Pc-Unofficial-Method-
-This is How to Run Anthropic's Computer Use Beta on Your Main Display (Unofficial Method)  
+Ubuntu Linux: How to Run Anthropic's Computer Use Beta on Your Main Display (Unofficial Method)
 
 
 
